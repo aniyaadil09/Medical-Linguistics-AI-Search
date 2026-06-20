@@ -26,6 +26,16 @@
 ## Project Title
 
 Medical Linguistics AI Search
+## Large Files Notice
+Some large files such as datasets, model files, and other heavy project resources are not uploaded to GitHub because of file size limitations.
+
+## Download Large Files
+[Click here to access the Google Drive folder containing all large project files](https://drive.google.com/drive/folders/16aV5pHtAlYDuoettErABVXX_Kmd6vupy?usp=sharing)
+
+## Important Note
+After downloading the large files, place them in the correct project folders before running the project.
+
+
 
 An AI-powered system to search medical terms, diseases, and symptoms using semantic vector search. Instead of traditional keyword search, it converts medical text into high-dimensional vectors, stores them in a FAISS index, and retrieves the most semantically similar results along with metadata such as Verified/Unverified status.
 
